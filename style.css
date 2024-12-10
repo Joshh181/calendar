@@ -51,8 +51,10 @@ body {
     padding: 5px;
 }
 .stl-cal h1{
+    background-color: rgba(0, 0, 0, 0.808);
     text-align: center;
     padding: 1rem;
+    border-radius: 10px;
 }
 .stl-cal ul {
     display: grid;
@@ -88,7 +90,13 @@ li{
     z-index: -1;
 }
 .days {
+    background-color: rgba(36, 106, 255, 0.774);
+    border-radius: 7px;
     color: hsl(160, 100%, 99%);
+}
+.date {
+    color: rgb(255, 248, 248);
+    text-shadow: 1px 1px 2px black;
 }
 .date {
     font-size: 14px
