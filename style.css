@@ -28,6 +28,8 @@ header h1 {
     font-family: cursive;
 }
 body {
+    background: url('images/pexels-pixabay-459335.jpg');
+    background-size: cover;
     text-transform: uppercase;
     background-color: #a3b18a;
     font-family: monospace;
@@ -42,51 +44,51 @@ body {
     color: rgb(7, 243, 19);
 }
 .january {
-    background: url('/pexels-jacobmorch-572780.jpg') no-repeat center center;
+    background: url('images/hm.jpg') no-repeat center center;
     background-size: cover;
 }
 .february {
-    background: url(/pexels-photo-417173.jpeg) no-repeat center center;
+    background: url('images/amy-humphries-2M_sDJ_agvs-unsplash.jpg') no-repeat center center;
     background-size: cover;
 }
 .march {
-    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background: url('images/christian-joudrey-u_nsiSvPEak-unsplash.jpg') no-repeat center center;
     background-size: cover;
 }
 .april {
-    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background: url('images/dino-reichmuth-kk3W5-0b6e0-unsplash.jpg') no-repeat center center;
     background-size: cover;
 }
 .may {
-    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background: url('images/ethan-robertson-SYx3UCHZJlo-unsplash.jpg') no-repeat center center;
     background-size: cover;
 }
 .june {
-    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background: url('images/frank-mckenna-iVVBVb2RqLc-unsplash.jpg') no-repeat center center;
     background-size: cover;
 }
 .july {
-    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background: url('images/garrett-parker-DlkF4-dbCOU-unsplash.jpg') no-repeat center center;
     background-size: cover;
 }
 .august {
-  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background: url('images/john-cobb-IE_sifhay7o-unsplash.jpg') no-repeat center center;
   background-size: cover;
 }
 .september {
-  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background: url('images/joshua-sortino-m5P0c6ABWDs-unsplash.jpg') no-repeat center center;
   background-size: cover;
 }
 .october {
-  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background: url('images/samuel-ferrara-uOi3lg8fGl4-unsplash.jpg') no-repeat center center;
   background-size: cover;
 }
 .november {
-  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background: url('images/stefan-stefancik-TPv9dh822VA-unsplash.jpg') no-repeat center center;
   background-size: cover;
 }
 .december {
-  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background: url('images/urban-vintage-78A265wPiO4-unsplash.jpg') no-repeat center center;
   background-size: cover;
 }
 .stl-cal {
@@ -140,7 +142,7 @@ li{
     color: hsl(160, 100%, 99%);
 }
 .date {
-    color: black;
+    color: rgb(255, 255, 255);
     text-shadow: 1px 1px 2px white;
 }
 .date {
