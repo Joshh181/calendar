@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header {
-    background: url('images/okk.jpg');
+    background: url('/received_1126075368876523.jpeg');
 }
 header {
     position: fixed;
@@ -20,20 +20,17 @@ h1 {
     color: rgb(204, 255, 225);
     font-weight: bolder;
     -webkit-text-stroke: 1px #ffffff46;
-
 }
 header h1 { 
     text-align: center;
-    -webkit-text-stroke: 3px #36a379;
-    font-size: 70px;
-    color: transparent;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: darkred;
+    font-size: 60px;
+    font-family: cursive;
 }
 body {
     text-transform: uppercase;
     background-color: #a3b18a;
     font-family: monospace;
-    background: url('images/ngi.mp4');
 }
 .calendar {
     display: flex;
@@ -43,6 +40,54 @@ body {
     justify-content: space-around;
     flex-wrap: wrap;
     color: rgb(7, 243, 19);
+}
+.january {
+    background: url('/pexels-jacobmorch-572780.jpg') no-repeat center center;
+    background-size: cover;
+}
+.february {
+    background: url(/pexels-photo-417173.jpeg) no-repeat center center;
+    background-size: cover;
+}
+.march {
+    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background-size: cover;
+}
+.april {
+    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background-size: cover;
+}
+.may {
+    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background-size: cover;
+}
+.june {
+    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background-size: cover;
+}
+.july {
+    background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+    background-size: cover;
+}
+.august {
+  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background-size: cover;
+}
+.september {
+  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background-size: cover;
+}
+.october {
+  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background-size: cover;
+}
+.november {
+  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background-size: cover;
+}
+.december {
+  background: url(/premium_photo-1680883415362-238794b19dde.jpeg) no-repeat center center;
+  background-size: cover;
 }
 .stl-cal {
     box-shadow: 0px 0px 3px 5px #111111;
@@ -95,8 +140,8 @@ li{
     color: hsl(160, 100%, 99%);
 }
 .date {
-    color: rgb(255, 248, 248);
-    text-shadow: 1px 1px 2px black;
+    color: black;
+    text-shadow: 1px 1px 2px white;
 }
 .date {
     font-size: 14px
